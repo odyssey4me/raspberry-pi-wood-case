@@ -1,5 +1,7 @@
 #  Raspberry Pi Wood Case
-This is a plan for a raspberry pi model 2B case, although with some modifications should be able to fit a pi of virtually any size. The design of this case was inspired by the [Raspberry Pi Oak Case](http://www.instructables.com/id/Oak-Raspberry-Pi-case-for-under-10/). This guide assumes some faimilarity with basic woodworking practices. If this is your first woodworking project, something of simialar difficulty to the oak case may be a better starting point.
+This is a plan for a raspberry pi model 2B case. With some modifications to its design, this should be able to fit a pi of virtually any size. The design of this case was inspired by the [Raspberry Pi Oak Case](http://www.instructables.com/id/Oak-Raspberry-Pi-case-for-under-10/).
+
+This guide assumes some faimilarity with basic woodworking practices. If this is your first woodworking project, something of simialar difficulty to the oak case may be a better starting point.
 
 ## Materials
 The materials for this case, especially wood type, can be altered to fit a different budget, availability, or preference. The materials used in the pictured case are:
@@ -12,27 +14,28 @@ The materials for this case, especially wood type, can be altered to fit a diffe
 - 4x #6 size hexagonal machine bolts
 - 4x 1/2 in rubber bumpers (we used [these](http://www.rockler.com/non-skid-rubber-bumpers))
 - 2x M2.5 machines screws
+- 4x 3/8 in diameter cherry wood plugs, at least 1/2 in long
 - Wood sanding sealer
 - Finishing wax
 - Mineral spirits
+- Wood glue
 - Plenty of scrap wood
-- 4x 3/8 in diameter cherry wood plugs, at least 0.5 in long
-- 1x 4.5 cm x 4.5 cm wooden inlay
+- 1x 4.5 cm x 4.5 cm wooden inlay (optional)
 
-![Image of Materials 1](http://i.imgur.com/yojYudk.jpg)
+![Materials Image 1](http://i.imgur.com/yojYudk.jpg)
 
-![Image of Materials 2](http://i.imgur.com/T9zJ2BM.jpg)
+![Materials Image 2](http://i.imgur.com/T9zJ2BM.jpg)
 
 ## Tools
-At minimum, these are the required tools to complete this project. Most local and large hardware stores will **cut your wood to size**. However, having access to tools such as a drill press, table saw, and router make this project easier.
+At minimum, these are the required tools to complete this project. However, having access to tools such as a drill press, table saw, and router make this project easier. Remember,  Most local and large hardware stores will **cut your wood to size for you**.
 
 - Power drill
-- Bit set for size #6 machine screws
-- Saw powerful enough to cut through your wood of choice
+- A 3/8 in drill bit
+- A 7/64 in drill bit
+- Saw powerful enough to accurately cut through your wood of choice
 - Disc sander
-- Sand paper, grit 150-320
+- Sand paper, grits 150, 220, & 320
 - Wrenches
-- 1 cm countersink bit
 - Router with inlay bit set (not necessary unless you are creating an inlay)
 
 ## Method
@@ -64,7 +67,26 @@ Here we are going to drill the main holes that the machine screws will eventuall
 1. Get some scrap wood to place beneath the bottom of the block, opposite of where we just drilled the countersink holes. This will prevent splintering.
 2. Choose a drill bit that is approximately the same diameter as your #6 size machine screw. In our case, we chose to go slight larger than the screw with a 7/64 bit. We reccomend the same as this will allow for easier fitting in the final product. Drill the 4 holes in the center of each of our countersink holes, making sure to go completey through to the other side of the scrap wood block.
 
-![Image of boards after step 1](http://i.imgur.com/XEPg3Xx.jpg)
+![Method Image 2](http://i.imgur.com/XEPg3Xx.jpg)
+**Method Image 2: Your two blocks should look similar to this, excluding the cutout for the wood inlay. If you wish to add an inlay, continue to step 4. Otherwise, go to step 5.**
+
+### Step 4: Adding a cutout for an inlay (Optional step)
+This is a purely aesthetic preference. This step will involve the use of a router to cut out a square in the top piece of our case. The cut will then be chiseled and sanded to create a clean square for our inlay to fit into.
+
+**This is a difficult process to describe, and method pictures are lacking. So before attempting this be sure you are comfortable with using a router.** 
+
+1. Rather than attempting to explain this process in full, [this video](https://www.youtube.com/watch?v=PwS1NSg_EB4) explains how to use a router to cutout a pattern in a piece of wood. Use the following instructions as a general guide as how to create your own.
+2. Draw a 4.5 cm x 4.5 cm square in the center of a piece of scrap wood.
+3. Place another piece of scrap wood beneath the scrap with the square drawn on. Use the router to cut out the square through to the other side of the top scrap piece.
+4. Tape the scrap with the square hole in it to the top of your top piece which will have the inlay.
+5. Use the router with a bearing bit to carve out the square into the top board.
+6. Finish and clean the square with a chisel and sand paper.
+
+### Step 5: Assembling the top piece
+
+1. Place one machine screw in each hole of your top piece with a #6 size locking washer
+
+
 
 
 
