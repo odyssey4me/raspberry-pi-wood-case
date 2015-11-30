@@ -37,20 +37,34 @@ At minimum, these are the required tools to complete this project. Most local an
 
 ## Method
 
-Unfortunately there are some missing pictures for the end of each step. Step 1 and 2 
+Unfortunately there are some missing pictures for the end of each step. Step 1 and 2 can be guided by the method image 1. 
 
 ### Step 1: Cutting and Sanding of the wood Pieces
 
-1. Cut your two pieces of wood to the sizes specified, or larger depending on your preference. **Warning**, do **not** cut your pieces smaller than 7.5 cm x 10.5 cm. This is very close to the minimum space needed for the machine screws to fit and not come into contact with the circuit board.
+1. Cut your two pieces of wood to the sizes specified, or larger depending on your preference. **Warning**: do **not** cut your pieces smaller than 7.5 cm x 10.5 cm. This is very close to the minimum space needed for the machine screws to fit and not come into contact with the circuit board.
 2. Use painter's tape to tape your two pieces of wood together face-to-face. This is a good time to make sure the boards are exactly the same size.
 3. Use a stencil, or one of the rubber bumpers, to draw a 1/2 in corner radius on each corner of the taped block.
 4. Use a disc sander to sand the corners of the block to match the drawn corner radius. Clean and fine tune with a low grit sand paper or power buffer.
 
 ### Step 2: Drilling the countersink holes in the top piece
+This step involves creating a countersink for our machine screws in each corner of the top of the case. This will allow  our machine screws to sit beneath the top of the board, rather than sitting proud of it. We can then use the 3/8 in cherry pegs to hide the screw heads and create a sleek, smooth look.
+**Note: The following step can be combined with step 3 if you own a countersink bit that is 3/8 in with a #6 size bit. Simply drill the holes using the countersink bit while the blocks are still taped together.**
 
 1. Choose which side you will want to be the top of the case. This may not matter as much with basic wood, but with wood that has interesting grains you may prefer the more attractive piece be on top. Once done, draw.
 2. Draw a 3/8 in diameter circle, set in about 1/4 in from each edge, on the 4 corners of the top piece.
-3. Use a 3/8 in countersinking bit to drill approximately 1/8 in deep, enough so there is about 1/10 in between the screw head and the top of the board.
+3. Use a 3/8 in countersinking bit to drill approximately 1/8 in deep, enough so there is about 1/10 in between the screw head and the top of the board. Be careful not to go too deep and drill a hole clear through the top of your board. **Do not remove the tape yet**
 
-![Image of boards after step 1](http://i.imgur.com/xYfBuwT.jpg)
-**At this point, your piece should look pretty close to this**
+![Method Image 1](http://i.imgur.com/xYfBuwT.jpg)
+
+**Method Image 1: At this point, your piece should look pretty close to this**
+
+### Step 3: Drilling the main holes
+Here we are going to drill the main holes that the machine screws will eventually feed through and hold our case together.
+
+1. Get some scrap wood to place beneath the bottom of the block, opposite of where we just drilled the countersink holes. This will prevent splintering.
+2. Choose a drill bit that is approximately the same diameter as your #6 size machine screw. In our case, we chose to go slight larger than the screw with a 7/64 bit. We reccomend the same as this will allow for easier fitting in the final product. Drill the 4 holes in the center of each of our countersink holes, making sure to go completey through to the other side of the scrap wood block.
+
+![Image of boards after step 1](http://i.imgur.com/XEPg3Xx.jpg)
+
+
+
