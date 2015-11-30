@@ -1,7 +1,7 @@
 #  Raspberry Pi Wood Case
 This is a plan for a raspberry pi model 2B case. With some modifications to its design, this should be able to fit a pi of virtually any size. The design of this case was inspired by the [Raspberry Pi Oak Case](http://www.instructables.com/id/Oak-Raspberry-Pi-case-for-under-10/).
 
-![Display Image 1](http://i.imgur.com/HmbKQvH.jpg)
+![Display Image 1](http://i.imgur.com/poi7qg0.jpg)
 
 This guide assumes some faimilarity with basic woodworking practices. If this is your first woodworking project, something of simialar difficulty to the oak case may be a better starting point.
 
@@ -116,11 +116,3 @@ This is a purely aesthetic preference. This step will involve the use of a route
 
 ![Method Image 5](http://i.imgur.com/kk6GZyL.jpg)
 **Method Image 5: Sanded, sealed, and waxed**
-
-
-
-
-
-
-
-
