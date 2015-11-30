@@ -12,8 +12,8 @@ The materials for this case, especially wood type, can be altered to fit a diffe
 - 8x #6 size locking washers
 - 8x #6 size square machine bolts (chosen for aesthetic; hexagonal work fine)
 - 4x #6 size hexagonal machine bolts
-- 4x 1/2 in rubber bumpers (we used [these](http://www.rockler.com/non-skid-rubber-bumpers))
-- 2x M2.5 machines screws
+- 4x 1/2 in rubber bumpers (we used [these](http://www.rockler.com/non-skid-rubber-bumpers)) with #6 bolts set in the bottom
+- 2x M2.5 mounting screws
 - 4x 3/8 in diameter cherry wood plugs, at least 1/2 in long
 - Wood sanding sealer
 - Finishing wax
@@ -81,10 +81,42 @@ This is a purely aesthetic preference. This step will involve the use of a route
 4. Tape the scrap with the square hole in it to the top of your top piece which will have the inlay.
 5. Use the router with a bearing bit to carve out the square into the top board.
 6. Finish and clean the square with a chisel and sand paper.
+7. Using a small amount of wood glue, glue in your inlay into the cutout area. Let dry for the specified amount of time before doing anything else.
 
 ### Step 5: Assembling the top piece
 
-1. Place one machine screw in each hole of your top piece with a #6 size locking washer
+1. Place one machine screw in each hole of your top piece with a #6 size locking washer.
+2. Use a #6 size nut with a #6 size locking washer to tighten down each screw into the top piece.
+3. Use a small amount of wood glue on the edges of each cherry wood peg and press or lightly hammer into each of the four holes, covering the screw heads. Let dry for the specified amount of time before doing anything else. **Note: if your pegs have a noticable grain, try to align their grain with the grain of the top piece to achieve a nice look**
+
+![Method Image 3](http://i.imgur.com/r5ggJ7m.jpg)
+**Method Image 3: Screws attached and pegs drying.**
+
+### Step 6: Cutting the pegs and drilling the mounting holes
+
+**On the top piece**
+1. Use a small handsaw to cut the remaining cherry wood pegs so they are almost flush with the surface of the top.
+2. Use a power buffer or low grit sandpaper to fully smooth the pegs down to the surface to get a nice, consistent height across the entire piece.
+
+**On the bottom piece**
+1. Center your raspberry pi on the bottom piece. Make sure the board is not covering any of the screw holes and there is enough room for the nuts to fit. Mark the location of the pi's mounting holes with a pencil.
+2. Use a drill bit for the size of your mounting screws to drill the holes for the mounting screws.
+
+![Method Image 4](http://i.imgur.com/n1oPGMW.jpg)
+**Method Image 4: Pegs cut off and smoothed with sand paper.
+
+### Step 7: Sanding, staining, and waxing
+
+**Both pieces**
+1. At this point, both pieces need to be sanded with a low grit sand paper to remove any inconsistencies in the wood. Keep doing this until you feel ready to move up to a higher grit. Once you have finished sanding with a 320 or similar grit sand paper, clean the wood with mineral spirits and let dry for the specified amount of time.
+2. Use a lacote wood sanding sealer on both pieces of wood. Use two coats of the sealer. Use #0000 grade steel wool or a very high grit sand paper to lightly remove any inconsistencies in the finish.
+3. Apply two coats of finishing wax to the top and the bottom, following the instructions on the wax container.
+
+![Method Image 5](http://i.imgur.com/kk6GZyL.jpg)
+**Method Image 5: Sanded, sealed, and waxed**
+
+
+
 
 
 
