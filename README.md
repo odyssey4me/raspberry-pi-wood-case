@@ -16,7 +16,7 @@ The materials for this case, especially wood type, can be altered to fit a diffe
 - Finishing wax
 - Mineral spirits
 - Plenty of scrap wood
-- 4x 1 cm diameter cherry wood plugs, at least 0.5 in long
+- 4x 3/8 in diameter cherry wood plugs, at least 0.5 in long
 - 1x 4.5 cm x 4.5 cm wooden inlay
 
 ![Image of Materials 1](http://i.imgur.com/yojYudk.jpg)
@@ -37,8 +37,20 @@ At minimum, these are the required tools to complete this project. Most local an
 
 ## Method
 
-### Step 1: Cutting and Sanding the Base and Top Pieces
+Unfortunately there are some missing pictures for the end of each step. Step 1 and 2 
 
-Begin by cutting your two pieces of wood to the sizes specified, or larger depending on your preference. **Warning**, do **not** cut your pieces smaller than 7.5 cm x 10.5 cm. This is very close to the minimum space needed for the machine screws to fit and not come into contact with the circuit board.
+### Step 1: Cutting and Sanding of the wood Pieces
 
-Using painter's tape, or any other tape that will leave little residue, tape your two pieces of wood together face-to-face. Use the 
+1. Cut your two pieces of wood to the sizes specified, or larger depending on your preference. **Warning**, do **not** cut your pieces smaller than 7.5 cm x 10.5 cm. This is very close to the minimum space needed for the machine screws to fit and not come into contact with the circuit board.
+2. Use painter's tape to tape your two pieces of wood together face-to-face. This is a good time to make sure the boards are exactly the same size.
+3. Use a stencil, or one of the rubber bumpers, to draw a 1/2 in corner radius on each corner of the taped block.
+4. Use a disc sander to sand the corners of the block to match the drawn corner radius. Clean and fine tune with a low grit sand paper or power buffer.
+
+### Step 2: Drilling the countersink holes in the top piece
+
+1. Choose which side you will want to be the top of the case. This may not matter as much with basic wood, but with wood that has interesting grains you may prefer the more attractive piece be on top. Once done, draw.
+2. Draw a 3/8 in diameter circle, set in about 1/4 in from each edge, on the 4 corners of the top piece.
+3. Use a 3/8 in countersinking bit to drill approximately 1/8 in deep, enough so there is about 1/10 in between the screw head and the top of the board.
+
+![Image of boards after step 1](http://i.imgur.com/xYfBuwT.jpg)
+**At this point, your piece should look pretty close to this**
